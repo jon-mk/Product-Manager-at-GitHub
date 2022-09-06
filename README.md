@@ -3,14 +3,14 @@
 # 1、互联网产品经理精选工作必读书
 https://github.com/NAMEs/ProductManager
 
-# 2、全栈产品经理养成教程
+# 2、产品经理读书笔记
+https://github.com/ZhaoKaiQiang/PMNote
+
+# 3、全栈产品经理养成教程
 https://github.com/idao/pmstack
 
-# 3、人工智能产品经理最佳实践
+# 4、人工智能产品经理最佳实践
 https://github.com/zhangziliang04/aipm
-
-# 4、产品经理读书笔记
-https://github.com/ZhaoKaiQiang/PMNote
 
 # 5、全栈产品经理
 https://github.com/jackispm/ProductManager
